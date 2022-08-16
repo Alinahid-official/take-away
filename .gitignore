@@ -1,0 +1,40 @@
+# dependencies
+/take-away-be/node_modules
+/take-away-fe/node_modules
+/take-away-customer-fe/node_modules
+.pnp
+.pnp.js
+
+# testing
+coverage
+
+# production
+build
+
+#ENV
+
+
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Logs
+logs
+*.log
+
+# Runtime data
+pids
+*.pid
+*.seed
+
+# misc
+.DS_Store
+.vscode
+
+.deta
+
+package-lock.json
+
+/take-away-be/package-lock.json
+/take-away-fe/package-lock.json
+/take-away-customer-fe/package-lock.json
